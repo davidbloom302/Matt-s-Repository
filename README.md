@@ -4,5 +4,5 @@
 
 | Item | Description |
 | ---- | ----------- |
-| Smarts | Dumb |
+| Smarts | Only a little dumb |
 | Worker | Lazy |
